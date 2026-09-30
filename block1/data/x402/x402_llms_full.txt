@@ -1,0 +1,83 @@
+# x402stats — State of x402 (full data reference)
+Updated: 2026-09-28T16:20:52.794Z
+Methodology: 2026-07-01.v1 — details at https://x402stats.io/methodology
+License: CC BY 4.0. Cite as: "x402stats — State of x402, x402stats.io"
+
+## Headline (last 30 days)
+- Reported volume (raw, all wallets): $959,533
+- Organic volume (wash-filtered): $793,308 (83% of reported)
+- Sellers with any revenue: 37,495
+- Organic sellers (≥$100, ≥3 buyers, non-dust, non-settlement): 91
+- Median seller revenue: $0.01
+- Top-10 wallets hold 76% of reported volume
+
+## Facilitator market share (30d seller volume, non-exclusive)
+- coinbase: 51.2% ($490,011), 32541 sellers (67 organic), chains: solana/base
+- payAI: 21.1% ($202,273), 982 sellers (13 organic), chains: solana/base
+- figment-facilitator: 19.0% ($181,931), 1 sellers (1 organic), chains: solana
+- mrdn: 16.0% ($153,067), 15 sellers (7 organic), chains: base
+- fluxa: 11.2% ($107,217), 3967 sellers (3 organic), chains: base
+- three-ws: 0.8% ($7,715), 94 sellers (1 organic), chains: solana
+- ultravioletadao: 0.7% ($6,911), 433 sellers (2 organic), chains: base
+- dexter: 0.3% ($2,659), 48 sellers (3 organic), chains: solana/base
+
+## Weekly raw-vs-organic record (append-only)
+date, reported_volume_usd, organic_volume_usd, organic_sellers
+2026-07-01, 965926, 432169, 173
+2026-07-02, 955114.8968731144, 428270.41597800015, 173
+2026-07-06, 882119.5817980849, 399575.0378609997, 184
+2026-07-13, 837279.1716481901, 374747.9800489999, 179
+2026-07-20, 795693.9807524564, 528718.0051739999, 157
+2026-07-27, 690574.9091385608, 503118.76422600006, 124
+2026-08-03, 718243.5400326, 568295.4168919998, 111
+2026-08-10, 864443.5579645351, 692085.2181519999, 104
+2026-08-17, 1021394.5845782598, 840871.1621209999, 84
+2026-08-24, 1241037.7051823789, 1010013.4051130003, 74
+2026-08-31, 1408639.2550112924, 1168967.114021, 78
+2026-09-07, 1332187.931561287, 1150429.7006969997, 77
+2026-09-14, 1302264.8296132039, 1119881.9196330002, 83
+2026-09-21, 990497.6667900472, 869079.0092830001, 90
+2026-09-28, 959533.4684862857, 793307.7040329998, 91
+
+## Daily series, last 30 days (unfiltered)
+date, volume_usd, sellers, buyers, transactions
+2026-08-30, 41265.49, 862, 2960, 1240886
+2026-08-31, 81349.38, 1266, 3960, 1335838
+2026-09-01, 31959.30, 1529, 3865, 1903355
+2026-09-02, 40013.62, 1079, 2981, 1853479
+2026-09-03, 54880.70, 882, 2562, 1842941
+2026-09-04, 23157.44, 1019, 2698, 1333276
+2026-09-05, 12932.29, 922, 2952, 1062509
+2026-09-06, 15167.51, 1037, 2909, 1084855
+2026-09-07, 39538.18, 964, 2806, 1802392
+2026-09-08, 51287.48, 1077, 4183, 249707
+2026-09-09, 29122.16, 1453, 4432, 73789
+2026-09-10, 12120.05, 1096, 3336, 68248
+2026-09-11, 39826.21, 1220, 3939, 92230
+2026-09-12, 9372.27, 1372, 4007, 60405
+2026-09-13, 11724.10, 1022, 4733, 90921
+2026-09-14, 16936.36, 1118, 3603, 69496
+2026-09-15, 9900.50, 1508, 4620, 57761
+2026-09-16, 21227.82, 1156, 3419, 64053
+2026-09-17, 49293.67, 2335, 5506, 86698
+2026-09-18, 38874.89, 1625, 4332, 76409
+2026-09-19, 15138.19, 1496, 4957, 88364
+2026-09-20, 15042.04, 916, 3972, 95820
+2026-09-21, 33031.83, 859, 3419, 62868
+2026-09-22, 44836.76, 1443, 5123, 97057
+2026-09-23, 31036.27, 24709, 28178, 264564
+2026-09-24, 64844.54, 2598, 6404, 76543
+2026-09-25, 37091.48, 1370, 5026, 67254
+2026-09-26, 13586.72, 1208, 4800, 80787
+2026-09-27, 41005.55, 1185, 5449, 110382
+2026-09-28, 4250.54, 793, 2125, 16989
+
+## Monthly reports (State of x402 — auto-published on the 1st, frozen + citable)
+- State of x402 — September 2026 — Organic sellers fell to 78 (-46) on $1.2M of real volume. → https://x402stats.io/reports/2026-09
+- State of x402 — August 2026 — Organic sellers fell to 124 (-49) on $503k of real volume. → https://x402stats.io/reports/2026-08
+- State of x402 — July 2026 — Only 45% of x402's reported volume is organic — $428k of $955k. → https://x402stats.io/reports/2026-07
+RSS feed: https://x402stats.io/rss.xml
+
+## Full data
+- Daily CSV (complete history since 2025-05-09): https://x402stats.io/api/stats/csv
+- JSON: https://x402stats.io/api/stats · per-facilitator: https://x402stats.io/api/facilitators

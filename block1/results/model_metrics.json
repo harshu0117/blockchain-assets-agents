@@ -1,0 +1,64 @@
+{
+  "random_forest": {
+    "roc_auc": 0.9887413294293981,
+    "pr_auc": 0.9413754228353342,
+    "confusion_matrix": [
+      [
+        1530,
+        3
+      ],
+      [
+        29,
+        102
+      ]
+    ],
+    "n_features": 34,
+    "test_size": 1664
+  },
+  "gradient_boosting": {
+    "roc_auc": 0.9908327233434417,
+    "pr_auc": 0.9406560560821167
+  },
+  "top_features": [
+    {
+      "Feature": "Time Diff between first and last (Mins)",
+      "Importance": 0.11292734900281978
+    },
+    {
+      "Feature": "total ether received",
+      "Importance": 0.08936323758185986
+    },
+    {
+      "Feature": "avg val received",
+      "Importance": 0.08620125557325187
+    },
+    {
+      "Feature": "Avg min between received tnx",
+      "Importance": 0.0713701048019832
+    },
+    {
+      "Feature": "Unique Received From Addresses",
+      "Importance": 0.05945048772722969
+    },
+    {
+      "Feature": "ERC20 min val rec",
+      "Importance": 0.05661652917118212
+    },
+    {
+      "Feature": "max value received",
+      "Importance": 0.05416694099273888
+    },
+    {
+      "Feature": "total transactions (including tnx to create contract",
+      "Importance": 0.044005167263835646
+    },
+    {
+      "Feature": "min value received",
+      "Importance": 0.043146907036499677
+    },
+    {
+      "Feature": "total Ether sent",
+      "Importance": 0.04199978418970014
+    }
+  ]
+}

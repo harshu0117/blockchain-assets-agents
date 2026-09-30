@@ -1,0 +1,98 @@
+[
+  {
+    "id": 13683215,
+    "filename": "agent_feedback_records.tab",
+    "filesize": 89986,
+    "contentType": "text/tab-separated-values",
+    "md5": "b7db64b607b35d1c410ceeb86cc68e97",
+    "download_url": "https://dataverse.harvard.edu/api/access/datafile/13683215"
+  },
+  {
+    "id": 13683211,
+    "filename": "agent_metadata.tab",
+    "filesize": 24756,
+    "contentType": "text/tab-separated-values",
+    "md5": "3e2e81a405bf46ea1e9c99a2a2613064",
+    "download_url": "https://dataverse.harvard.edu/api/access/datafile/13683211"
+  },
+  {
+    "id": 14033649,
+    "filename": "agent_reputation_summary.tab",
+    "filesize": 129922,
+    "contentType": "text/tab-separated-values",
+    "md5": "e9f163b1287d2896b96949e6805b719d",
+    "download_url": "https://dataverse.harvard.edu/api/access/datafile/14033649"
+  },
+  {
+    "id": 13683212,
+    "filename": "agents_core.tab",
+    "filesize": 1798938,
+    "contentType": "text/tab-separated-values",
+    "md5": "caebdb5e3143944cc970b3da3cba7849",
+    "download_url": "https://dataverse.harvard.edu/api/access/datafile/13683212"
+  },
+  {
+    "id": 14037329,
+    "filename": "agent_services.tab",
+    "filesize": 13234,
+    "contentType": "text/tab-separated-values",
+    "md5": "a7ac26cf4cba16cd4b84251aa09548db",
+    "download_url": "https://dataverse.harvard.edu/api/access/datafile/14037329"
+  },
+  {
+    "id": 13683216,
+    "filename": "crosschain_registrations.tab",
+    "filesize": 5593,
+    "contentType": "text/tab-separated-values",
+    "md5": "b342a10a0168a3320846a2d46ac6c0d9",
+    "download_url": "https://dataverse.harvard.edu/api/access/datafile/13683216"
+  },
+  {
+    "id": 13687590,
+    "filename": "data dictionary.md",
+    "filesize": 5122,
+    "contentType": "text/markdown",
+    "md5": "7a4094f0d71b77dc7934483e42114280",
+    "download_url": "https://dataverse.harvard.edu/api/access/datafile/13687590"
+  },
+  {
+    "id": 14037336,
+    "filename": "data_dictionary_new.tab",
+    "filesize": 10416,
+    "contentType": "text/tab-separated-values",
+    "md5": "10c8ab12a2063a7797f9c99f9c7e9997",
+    "download_url": "https://dataverse.harvard.edu/api/access/datafile/14037336"
+  },
+  {
+    "id": 14033656,
+    "filename": "feedback_issuer_summary.tab",
+    "filesize": 14554,
+    "contentType": "text/tab-separated-values",
+    "md5": "f55565bdca0a7a1e70fa9ef4ce115ba8",
+    "download_url": "https://dataverse.harvard.edu/api/access/datafile/14033656"
+  },
+  {
+    "id": 14037334,
+    "filename": "metadata_raw_snapshot.jsonl",
+    "filesize": 79643,
+    "contentType": "application/octet-stream",
+    "md5": "0a40588b4e657ac0ec1aac5fa657f20f",
+    "download_url": "https://dataverse.harvard.edu/api/access/datafile/14037334"
+  },
+  {
+    "id": 13683217,
+    "filename": "mint_economics.tab",
+    "filesize": 399367,
+    "contentType": "text/tab-separated-values",
+    "md5": "7340039142de123060159dcae4128736",
+    "download_url": "https://dataverse.harvard.edu/api/access/datafile/13683217"
+  },
+  {
+    "id": 13683210,
+    "filename": "transfer_history.tab",
+    "filesize": 391374,
+    "contentType": "text/tab-separated-values",
+    "md5": "9c37164737013d0d639c550649386c64",
+    "download_url": "https://dataverse.harvard.edu/api/access/datafile/13683210"
+  }
+]

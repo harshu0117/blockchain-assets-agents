@@ -1,0 +1,4 @@
+Chain,Total_Agents,Unique_Owners,Identified_Operating_Wallets,Agents_With_Metadata,Agents_With_Services,Agents_With_Reputation,Agents_With_Ownership_Changes,Total_Ownership_Transfer_Events
+Ethereum,36359,8942,2,72,66,628,11494,14934
+Base,58376,32016,2,72,66,628,18730,18848
+Combined (Total),94735,40134,2,144,132,1256,30224,33782

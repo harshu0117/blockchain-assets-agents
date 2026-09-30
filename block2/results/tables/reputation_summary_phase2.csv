@@ -1,0 +1,4 @@
+Chain,Total Feedback Events,Agents with Feedback,Unique Providers,Median Feedback Score,Mean Feedback Score (Scale <= 1000),Extreme Value Anomalies,Self-Feedback Count,Self-Feedback (%),Repeated Feedback Count,Repeated Feedback (%),Spam Bursts (Same Block),Concentrated Providers,Revoked Feedbacks,Responses Appended,Flagged Any Anomaly,Flagged Share (%),Agent Feedbacks p50,Agent Feedbacks p90,Agent Feedbacks p99,Provider Feedbacks p50,Provider Feedbacks p90,Provider Feedbacks p99
+Ethereum,3182,1656,632,85.0,73.71,0,1,0.03,581,18.26,130,255,0,37,676,21.24,1.0,2.0,15.450000000000045,1.0,2.0,21.96999999999923
+Base,353488,29325,11514,1.0,26.61,990,78,0.02,288468,81.61,54514,62124,82,4489,300444,84.99,2.0,10.0,20.0,1.0,4.0,30.8700000000008
+Total,356670,29686,12109,1.0,27.03,990,79,0.02,289049,81.04,54644,62379,82,4526,301120,84.43,2.0,10.0,21.0,1.0,4.0,30.0
